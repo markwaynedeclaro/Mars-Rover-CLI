@@ -1,0 +1,19 @@
+{
+  "name": "marsrover",
+  "version": "1.0.0",
+  "description": "Simple app to simulate a Mars Rover movement on a plane",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "rewire": "^4.0.1"
+  }
+}
