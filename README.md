@@ -31,3 +31,12 @@ This is a simple Javascript Program that simulates a Mars Rover control with CLI
         1 3 N
         5 1 E
         
+## CLI interface
+
+	![cli](https://user-images.githubusercontent.com/39042426/60539646-8cff5900-9d50-11e9-80e9-6f3bcfc23d81.png)
+   
+## Tests
+
+	![test](https://user-images.githubusercontent.com/39042426/60538743-8b349600-9d4e-11e9-9e09-91c2e85c256c.png)
+   
+   
